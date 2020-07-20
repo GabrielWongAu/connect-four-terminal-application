@@ -65,11 +65,11 @@ python3 main.py
 My terminal application is the popular strategy board game Connect 4. Two players take it in turns dropping coloured checkers into a seven-column by six-row grid. The first player to align four of their checkers in a row (horizontally, vertically or diagonally) wins. My game is a multiplayer game and requires 2 people to play the game.
 
 ### The Problem my application will solve and Why I am developing this application
-My game terminal application solves the problem of boredom and social isolation during the current COVID19 global pandemic. As there are a lot people in lockdown and cannot go out for safety reasons, my game serves to help people stay connected and entertained. Also playing strategy board games keep one’s mind alert and active. 
+My game terminal application solves the problem of boredom and social isolation during the current COVID19 global pandemic. As there are a lot people in lockdown and cannot go out for safety reasons, my game serves to help people stay connected and entertained. Also playing strategy board games keeps one’s mind alert and active. 
 
-I wanted my Connect 4 terminal application to be as realistic as possible to the original Connect 4 game. This will hopefully make my application highly addictive, to keep people entertained, as per my terminal application purpose. 
+I wanted my Connect 4 terminal application to be as realistic as possible to the original Connect 4 game. This will hopefully make my application highly addictive, to keep people entertained. 
 
-Connect 4 is popular amongst young kids because it involves building things up (filling the grid with coloured checkers) and knocking things down (emptyingw the grid of checkers). This is why I created the piece drop animation and the clear board animation to provide my users with the same real life experience. The novelty of my animations will hopefully not wear off anytime soon.
+Connect 4 is popular amongst young kids because it involves building things up (filling the grid with coloured checkers) and knocking things down (emptying the grid of checkers). This is why I created the piece drop animation and the clear board animation, to mimick the same build up and knock down experience as a real life connect 4 game.
 
 ### Target Audience
 My target audience is anyone who is bored and wants to kill time, or they want to spend time with another person (either physically or virtually) playing an addictive game. This game is suitable for ages 6+. It is especially suitable for children as it’s relatively easy to pick up and understand the game mechanics. Each game takes approximately 1 to 10 minutes, so it’s great for players who want a short game that doesn’t go on for hours. 
